@@ -10,7 +10,9 @@ Dropdown selection of city ,displays 15–20 popular places per city with images
 Clicking on a place opens a new page with:Place description,Location,Ticket pricing (if applicable)
 
 HTML5 – Page structure
+
 CSS3 – Styling and layout
+
 JavaScript – Dynamic content rendering
 
 Responsive and user-friendly design.
